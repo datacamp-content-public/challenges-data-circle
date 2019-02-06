@@ -43,12 +43,6 @@ key: 45ff8d1dee
 `@context`
 
 
-`@code1`
-```{r}
-{{var1}} <- {{_fun1}}({{var2}})
-{{var1}}
-```
-
 `@pre_challenge_code`
 ```{r}
 
@@ -56,30 +50,12 @@ key: 45ff8d1dee
 
 `@variables`
 ```yaml
-var1:
-  - 'x'
-  - 'y'
-  - 'z'
-var2:
-  - '11, 8, 10, 15'
-  - '12, 17, 5, 19'
-  - '-8, -4, 2'
-  - '-9, -10, -2'
-  - 'FALSE, TRUE, TRUE'
-  - 'TRUE, FALSE, TRUE'
-  - '"January", "June", "December"'
-  - '"May", "June", "March"'
-  - '"December", "September", "February"'
-fun1:
-  - 'c'
+
 ```
 
 `@distractors`
 ```yaml
-fun1:
-  - 'x'
-  - 'y'
-  - 'z'
+
 ```
 
 ---
