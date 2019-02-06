@@ -94,11 +94,6 @@ key: f19935c6ab
 `@context`
 
 
-`@code1`
-```{r}
-{{_fun1}}
-```
-
 `@pre_challenge_code`
 ```{r}
 
@@ -106,11 +101,6 @@ key: f19935c6ab
 
 `@variables`
 ```yaml
-var1:
-	- '-1.3'
-fun1 :
-	- 'plot'
-    - ''
-    - 
+
   
 ```
