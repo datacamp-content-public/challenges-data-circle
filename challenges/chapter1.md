@@ -68,7 +68,14 @@ key: f19935c6ab
 ```
 
 `@context`
-https://assets.datacamp.com/production/repositories/4613/datasets/2dd4cab3c792e2755e7dafe355a14bdb06973c5d/Pokemon.csv
+
+
+`@code1`
+```{r}
+data(mtcars)
+
+mtcars$new_variable = mtcars$mpg {{_fun1}} mtcars$cyl
+```
 
 `@pre_challenge_code`
 ```{r}
@@ -77,5 +84,8 @@ https://assets.datacamp.com/production/repositories/4613/datasets/2dd4cab3c792e2
 
 `@variables`
 ```yaml
-
+fun1 :
+	- '+'
+    - '-'
+    - 'x'
 ```
