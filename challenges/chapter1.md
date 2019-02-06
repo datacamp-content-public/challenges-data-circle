@@ -37,11 +37,11 @@ R에서 '주석'(comment)을 달기 위한 command는??
 - `z == 3`
 
 `@options3`
-- install.packages(dplyr) / library(dplyr)
-- [install.packages('dplyr') / library(dplyr)]
-- install.packages('dplyr') / library('dplyr')
-- install.packages(dplyr) / library('dplyr')
-- installpackages(dplyr) / library('dplyr')
+- install.packages(dplyr)  /  library(dplyr)
+- [install.packages('dplyr')  /  library(dplyr)]
+- install.packages('dplyr')  /  library('dplyr')
+- install.packages(dplyr)  /  library('dplyr')
+- installpackages(dplyr)  /  library('dplyr')
 
 ---
 
