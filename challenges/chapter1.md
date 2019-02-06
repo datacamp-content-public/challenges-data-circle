@@ -92,12 +92,11 @@ key: f19935c6ab
 ```
 
 `@context`
-
+https://assets.datacamp.com/production/repositories/4613/datasets/2dd4cab3c792e2755e7dafe355a14bdb06973c5d/Pokemon.csv
 
 `@code1`
 ```{r}
-x <- {{var1}}
-class(x)
+{{_fun1}}
 ```
 
 `@pre_challenge_code`
@@ -108,15 +107,10 @@ class(x)
 `@variables`
 ```yaml
 var1:
-  - '-1.3'
-  - 'c(5, 1)'
-  - '"FALSE"'
-  - '"TRUE"'
-  - 'c(TRUE, FALSE)'
-  - 'c("b", "a")'
-  - 'c(FALSE, TRUE)'
-  - 'TRUE'
-  - 'FALSE'
-  - 'c("-2", "3")'
-  - 'c(12, -10)'
+	- '-1.3'
+fun1 :
+	- 'plot'
+    - ''
+    - 
+  
 ```
