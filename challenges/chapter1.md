@@ -1,6 +1,7 @@
 ---
-title: example_r_challenges
+title: 'Week 1_Review Test'
 output: html_document
+description: ""
 ---
 
 ## True basics
@@ -11,7 +12,7 @@ key: 167A4VcDii9Ku
 ```
 
 `@assignment1`
-Which symbol marks the beginning of a comment in R?
+R에서 '주석'(comment)을 달기 위한 command는??
 
 `@assignment2`
 Which of the following is the recommended method of assigning a value to a variable?
@@ -42,7 +43,7 @@ Which function is used to view the contents of your workspace?
 - `View()`
 - `view_contents()`
 - `show_workspace()`
-- `view_workspace()`
+- ``view_workspace()``
 
 ---
 
