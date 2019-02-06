@@ -15,10 +15,7 @@ key: 167A4VcDii9Ku
 R에서 '주석'(comment)을 달기 위한 command는??
 
 `@assignment2`
-Which of the following is the recommended method of assigning a value to a variable?
-
-`@assignment3`
-Which function is used to view the contents of your workspace?
+다음 중 변수(variable)에 값(value)을 지정해주기 위한 적절한 방법은?
 
 `@options1`
 - `%`
@@ -35,15 +32,6 @@ Which function is used to view the contents of your workspace?
 - `z gets 3`
 - `z -> 3`
 - `z == 3`
-
-`@options3`
-- `show()`
-- [`ls()`]
-- `view()`
-- `View()`
-- `view_contents()`
-- `show_workspace()`
-- ``view_workspace()``
 
 ---
 
