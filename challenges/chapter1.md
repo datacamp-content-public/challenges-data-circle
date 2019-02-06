@@ -27,7 +27,7 @@ R에서 '주석'(comment)을 달기 위한 command는??
 - `/*`
 
 `@options2`
-- [`z <- 3`]
+- [`z = 3`]
 - `z is 3`
 - `z gets 3`
 - `z -> 3`
@@ -121,4 +121,31 @@ fun1:
   - 'x'
   - 'y'
   - 'z'
+```
+
+---
+
+## Insert challenge title here
+
+```yaml
+type: BlanksChallenge
+key: 8df54648f7
+```
+
+`@context`
+
+
+`@pre_challenge_code`
+```{r}
+
+```
+
+`@variables`
+```yaml
+
+```
+
+`@distractors`
+```yaml
+
 ```
