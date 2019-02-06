@@ -101,7 +101,7 @@ key: f19935c6ab
 
 `@pre_challenge_code`
 ```{r}
-https://assets.datacamp.com/production/repositories/4613/datasets/2dd4cab3c792e2755e7dafe355a14bdb06973c5d/Pokemon.csv
+
 ```
 
 `@variables`
